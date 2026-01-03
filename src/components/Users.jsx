@@ -17,7 +17,6 @@ const Users = () => {
           <li key={p.id}>{p.name}</li>
         ))}
       </ul>
-      ;
     </div>
   );
 };
